@@ -1,1 +1,5 @@
 quotes.parquet
+
+bin
+lib
+pyvenv.cfg
